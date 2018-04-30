@@ -1,1 +1,2 @@
-This is a spider demo
+Scrapyd-client 无法兼容windows
+Scrapy-Splash 无法再windows安装
