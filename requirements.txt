@@ -39,7 +39,7 @@ mitmproxy==3.0.4
 multidict==4.2.0
 parsel==1.4.0
 passlib==1.7.1
-Pillow==5.1.0
+Pillow==9.0.1
 pipreqs==0.4.9
 pyasn1==0.4.2
 pyasn1-modules==0.2.1
